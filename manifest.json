@@ -1,0 +1,9 @@
+{
+	"id": "media-library",
+	"name": "Bookshelf Connector",
+	"version": "1.0.0",
+	"minAppVersion": "1.10.0",
+	"description": "Imports Audible audiobooks and NovelPhoenix web novels as Bookshelf book notes.",
+	"author": "you",
+	"isDesktopOnly": true
+}
